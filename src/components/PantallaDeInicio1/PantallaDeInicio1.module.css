@@ -1,0 +1,149 @@
+.root {
+  height: 1024px;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+}
+.PngtreeCloudsclouds_2380381 {
+  opacity: 0.8;
+  width: 1440px;
+  height: 788px;
+  position: absolute;
+  left: 0;
+  top: 96px;
+  background-image:/* webpackIgnore: true */ url('assets/PngtreeCloudsclouds_2380381.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner_fondo_nivel1 {
+  width: 1440px;
+  height: 653px;
+  position: absolute;
+  left: 0;
+  top: 371px;
+  background-image:/* webpackIgnore: true */ url('assets/banner_fondo_nivel1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unProyectoEducativoConElObjeti {
+  color: #454545;
+  font-size: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 847px;
+  height: 116px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 297px;
+  top: 490px;
+}
+.logosombra2 {
+  width: 497px;
+  height: 246px;
+  position: absolute;
+  left: 472px;
+  top: 207px;
+  background-image:/* webpackIgnore: true */ url('assets/logosombra2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1 {
+  width: 1440px;
+  height: 96px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fff;
+}
+.menu1 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 1359px;
+  top: 28px;
+  background-image:/* webpackIgnore: true */ url('assets/menu1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iNICIARSESION {
+  color: #000;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Inria Serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 116px;
+  height: 18px;
+  align-items: center;
+  position: absolute;
+  left: 1217px;
+  top: 40px;
+}
+.usuario1 {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  left: 1168px;
+  top: 29px;
+  background-image:/* webpackIgnore: true */ url('assets/usuario1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.notificacion1 {
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  left: 1096px;
+  top: 28px;
+  background-image:/* webpackIgnore: true */ url('assets/notificacion1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logosombra1 {
+  width: 133px;
+  height: 66px;
+  position: absolute;
+  left: 67px;
+  top: 15px;
+  background-image:/* webpackIgnore: true */ url('assets/logosombra1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle95 {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 685.419px;
+  top: 0;
+  background-color: #62b03899;
+}
+.alerta1 {
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: 692.419px;
+  top: 7px;
+  background-image:/* webpackIgnore: true */ url('assets/alerta1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.polygon5 {
+  width: 80.799px;
+  height: 33px;
+  position: absolute;
+  left: 680px;
+  top: 61.75px;
+  overflow: visible;
+}
